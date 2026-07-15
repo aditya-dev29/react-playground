@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'helvetica neue';
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+.card {
+  background-color: rgb(222, 110, 35);
+  border-radius: 10px;
+  margin: 20px;
+  padding: 20px;
+}
+
+.nav {
+  background-color: rgb(113, 52, 169);
+  padding: 20px;
+  margin: 10px;
+}
+
+.foot {
+  background-color: #222;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin-top: 30px;
+  font-size: 18px;
+  bottom: 0%;
+}
+
+.foot p {
+  margin: 0;
+}
